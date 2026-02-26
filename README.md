@@ -1,10 +1,9 @@
-### AI.swp
+#### AI.swp
+The concept of a level layer (AI.swp) is based on integrating a physical intermediary:
 
-The concept behind the plane layer (AI.swp) is to integrate a physics proxy:
-
-This relates to the physical aspect and helps reduce computational load and memory compression during image and video generation for AI prompt engines. The concept was conceived on July 3, 2025, when other generation engines lacked this technology. The plane layer is an invisible (transparent) layer placed between two objects to reduce the computational load and mathematical calculations required for generation in AI engines.
-
-For example, placing a cup on a table in a room, or designing an eagle on its nest above a fish it has caught.
+This relates to the physical aspect and helps reduce the computational load and memory pressure during the creation of images and videos for AI engines. This concept was developed on July 3, 2025, when other rendering engines lacked this technology.
+The AI.swp level layer is an invisible (transparent) layer placed between two objects to reduce the computational load, mathematical calculations, and memory effort required for rendering in AI engines.
+For example, placing a cup on a table in a room, or designing an eagle on its nest above a fish it caught.
 
 The steps, in order:
 
